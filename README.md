@@ -251,10 +251,7 @@ class Developer:
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/your_telegram">
+  <a href="https://t.me/smarks_wrist">
     <img src="https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
   </a>
 </p>
