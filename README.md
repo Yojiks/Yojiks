@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Python+Backend+Developer;AI-Integrator;FastAPI+%7C+Django+%7C+REST+API;Telegram+Bots+%7C+Automation+%7C+LLM+Integrations;Docker+%7C+Kubernetes+%7C+Linux+Deployments" />
 </p>
 
+
+
 <h3 align="center">
   Python Backend Developer & AI-Integrator
 </h3>
